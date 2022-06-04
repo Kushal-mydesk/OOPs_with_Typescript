@@ -19,7 +19,3 @@ console.log(user[1].length);
 user.push(1);
 let output = user[0].valueOf;
 console.log(output);
-
-
-//enummeration
-
